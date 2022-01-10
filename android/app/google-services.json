@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "693885665878",
+    "project_id": "neosoft-assignment",
+    "storage_bucket": "neosoft-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693885665878:android:1d74b4087bbd242466b1f7",
+        "android_client_info": {
+          "package_name": "com.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693885665878-15f7ib0d63ho3c7ps175t8sjf6pm2qin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApBVnxTY-PD7MmtuF6koPr_scclrqHLx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693885665878-15f7ib0d63ho3c7ps175t8sjf6pm2qin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
