@@ -25,7 +25,7 @@ export default SelectTask
 
 const styles = StyleSheet.create({
     containerText : {
-    fontSize : dimensions.fourty,
+    fontSize : dimensions.thirty,
     textAlign : 'center',
     marginTop : dimensions.thirty
     },
